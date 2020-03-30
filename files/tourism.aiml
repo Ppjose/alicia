@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="2.0">
 <category>
-<pattern>TELL ME ABOUT *</pattern>
-<template>
-<think>
-<set name="it">
-<star/>
-</set>
-</think>
-Here is some information about
-<formal>
-<star/>
-</formal>
+   <pattern>TELL ME ABOUT *</pattern>
+     <template>
+         <think>
+             <set name="it">
+                 <star/>
+             </set>
+         </think>
+            Here is some information about
+              <formal>
+                 <star/>
+              </formal>
 .
-<button>
-<text>Click here</text>
-<url>
-https://en.wikipedia.org/wiki/
-<star/>
-</url>
-</button>
-</template>
+                    <button>
+                       <text>Click here</text>
+                              <url>
+                                   https://en.wikipedia.org/wiki/
+                                          <star/>
+                              </url>
+                                    </button>
+     </template>
 </category>
+
 <category>
 <pattern>SHOW ME A MAP OF *</pattern>
 <template>

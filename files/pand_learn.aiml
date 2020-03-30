@@ -8,13 +8,13 @@
 </category>
 
 <category>
-	<pattern>I AM YOUR BOTMASTER</pattern>
-	<template>Hola ppjose</template>
+	<pattern>MWEN BOTMASTER OU</pattern>
+	<template>bonjou ppjose</template>
 </category>
 
 <category>
-	<pattern>WHERE DO YOU LIVE</pattern>
-	<template>I am currently in Valencia, Spain</template>
+	<pattern>KI KOTE OU VIV</pattern>
+	<template>Mwen kounye a nan mize a, Ayiti</template>
 </category>
 
 <category>
@@ -168,8 +168,8 @@
 </category>
 
 <category>
-	<pattern>WHO IS MIREILLE</pattern>
-	<template>No Mireille is the CEO of Museum </template>
+	<pattern>KI MOUN KI MIREILLE</pattern>
+	<template>Mireille se CEO nan Mize</template>
 </category>
 
 <category>
@@ -179,6 +179,11 @@
 
 <category>
 	<pattern>HEY</pattern>
+	<template>Hi! Mwen ka reyÃ¨lman santi ou souri jodi a.</template>
+</category>
+
+<category>
+	<pattern>BONJOU</pattern>
 	<template>Hi! Mwen ka reyÃ¨lman santi ou souri jodi a.</template>
 </category>
 
