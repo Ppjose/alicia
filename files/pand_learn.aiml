@@ -187,4 +187,9 @@
 	<template>Hi! Mwen ka reyÃ¨lman santi ou souri jodi a.</template>
 </category>
 
+<category>
+	<pattern>HELLO</pattern>
+	<template>Hi it's great to see you!</template>
+</category>
+
 </aiml>
